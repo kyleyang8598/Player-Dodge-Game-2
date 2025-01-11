@@ -14,3 +14,7 @@ This Creative Project is a combination of the Unit 2 Project and Unit 8 Project.
 Instructions: Avoid the obstacles by pressing the arrow keys to move the player.
 You can also collect the snowflakes on the screen to gain points for each round.
 The player will have to survive for 20 rounds or gain 20 points to win the game.
+
+![image](https://github.com/user-attachments/assets/ca3159c9-74ab-4dc1-8cae-03a6bb1f4863)
+![image](https://github.com/user-attachments/assets/042c8d6e-51c4-4b6c-93b3-ac60de7891d9)
+![image](https://github.com/user-attachments/assets/1edc7c38-0f67-466e-865b-05fac569eed2)
